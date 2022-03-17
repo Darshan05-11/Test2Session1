@@ -1,1 +1,9 @@
 
+ gcc -g p1original.c -lm
+ ./a.out
+enter the two points2
+4
+2
+-4
+enter the distance between (2.000000,4.000000) and (2.000000,-4.000000) is 8.000000 ^C
+ 
